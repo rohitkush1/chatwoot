@@ -1,9 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T11:20:30.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.5" etag="SXFadAh5RsOkHe8RMvr7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T11:36:25.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="evbjviLcb29MLLFVXyI4" version="24.6.5" type="github">
   <diagram name="Page-1" id="wRWRlWsPtbM9jv2gGUGF">
-    <mxGraphModel>
+    <mxGraphModel dx="978" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="88Ed4PIqy-xApXGpvT7Q-1" target="88Ed4PIqy-xApXGpvT7Q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-1" value="Script started" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="88Ed4PIqy-xApXGpvT7Q-3" target="88Ed4PIqy-xApXGpvT7Q-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-3" value="Open MS Edge&amp;nbsp;&lt;div&gt;Browser&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="88Ed4PIqy-xApXGpvT7Q-4" target="88Ed4PIqy-xApXGpvT7Q-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-4" value="&lt;strong&gt;Navigate&lt;/strong&gt;: Go to the URL of the LDB portal." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="88Ed4PIqy-xApXGpvT7Q-6" target="88Ed4PIqy-xApXGpvT7Q-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-6" value="2 min wait" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="88Ed4PIqy-xApXGpvT7Q-8" target="88Ed4PIqy-xApXGpvT7Q-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="88Ed4PIqy-xApXGpvT7Q-8" target="88Ed4PIqy-xApXGpvT7Q-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-8" value="&lt;strong&gt;Check&lt;/strong&gt;: If the Portal URL opens successfully" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="88Ed4PIqy-xApXGpvT7Q-10" target="88Ed4PIqy-xApXGpvT7Q-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-10" value="Enter a container number into the search box." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="88Ed4PIqy-xApXGpvT7Q-12" target="88Ed4PIqy-xApXGpvT7Q-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-12" value="Capture a screenshot of the issue." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="380" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-14" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="178" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="88Ed4PIqy-xApXGpvT7Q-15" target="88Ed4PIqy-xApXGpvT7Q-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-15" value="Click on the search icon." style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="90" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="88Ed4PIqy-xApXGpvT7Q-17" target="88Ed4PIqy-xApXGpvT7Q-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-17" value="Capture a screenshot of the container number." style="whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="100" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="88Ed4PIqy-xApXGpvT7Q-21" target="88Ed4PIqy-xApXGpvT7Q-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-21" value="Send an email to a specified email address with the container number snapshot attached, subject: &quot;Portal Status: Fine&quot;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="210" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-23" value="Process done.&lt;div&gt;Browser completed.&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1147.5" y="215" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-25" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="328" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="88Ed4PIqy-xApXGpvT7Q-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-30" value="Send an email to a specified email address with the container number snapshot attached, subject: &quot;Portal Status: Fine&quot;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="365" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="88Ed4PIqy-xApXGpvT7Q-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="88Ed4PIqy-xApXGpvT7Q-30" target="88Ed4PIqy-xApXGpvT7Q-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
