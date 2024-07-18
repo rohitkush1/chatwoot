@@ -1,9 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T04:40:04.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.0" etag="gERYrRIiU-5AV1cY8QI8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T04:48:49.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="dqAi0wnvYY4zrRc5kBAb" version="24.7.1" type="github">
   <diagram name="Page-1" id="poMdmbHjMQEIpnBtckB0">
-    <mxGraphModel>
+    <mxGraphModel dx="1100" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UbksK87bUcwvC0wE3q0y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UbksK87bUcwvC0wE3q0y-2" target="UbksK87bUcwvC0wE3q0y-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UbksK87bUcwvC0wE3q0y-2" value="iTop User Login&amp;nbsp;Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UbksK87bUcwvC0wE3q0y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UbksK87bUcwvC0wE3q0y-3" target="UbksK87bUcwvC0wE3q0y-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UbksK87bUcwvC0wE3q0y-3" value="Chatwoot application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="380" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UbksK87bUcwvC0wE3q0y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UbksK87bUcwvC0wE3q0y-4" target="UbksK87bUcwvC0wE3q0y-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UbksK87bUcwvC0wE3q0y-4" value="User Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UbksK87bUcwvC0wE3q0y-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbksK87bUcwvC0wE3q0y-5" target="UbksK87bUcwvC0wE3q0y-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UbksK87bUcwvC0wE3q0y-5" value="iTop Inbox Script" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UbksK87bUcwvC0wE3q0y-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UbksK87bUcwvC0wE3q0y-9" target="UbksK87bUcwvC0wE3q0y-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="264.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbksK87bUcwvC0wE3q0y-9" value="Copy the inbox script and added into the iTop user page(datamodel)" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="170" width="215" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="UbksK87bUcwvC0wE3q0y-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbksK87bUcwvC0wE3q0y-13" target="UbksK87bUcwvC0wE3q0y-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="265.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbksK87bUcwvC0wE3q0y-13" value="Run iTop setup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="240" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UbksK87bUcwvC0wE3q0y-15" value="Process completed.&amp;nbsp;&lt;div&gt;Chatwoot widget will be shown in the left bottom of the page.&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="700" y="200" width="130" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
